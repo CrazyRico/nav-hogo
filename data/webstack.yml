@@ -63,7 +63,34 @@
       url: https://www.remove.bg/zh
       logo: removebg.png
       description: 图片背景消除。
-
+    - title: 语雀话题
+      logo: 语雀话题.png
+      url: https://www.yuque.com/shenweiyan/wow
+      description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
+    - title: 简书
+      logo: 简书.png
+      url: https://www.jianshu.com/
+      description: 简书创作社区。
+    - title: 知乎
+      logo: 知乎.png
+      url: https://www.zhihu.com/
+      description: 知乎社区。
+    - title: V2EX
+      logo: v2ex.jpg
+      url: https://www.v2ex.com/
+      description: V2EX 创意工作者的社区。
+    - title: 微信公众号
+      logo: weixingzh.png
+      url: https://mp.weixin.qq.com/
+      description: 微信公众号管理。
+    - title: 企业微信
+      logo: qiye.webp
+      url: https://work.weixin.qq.com/
+      description: 企业微信管理。
+    - title: 头条号
+      logo: toutiao.png
+      url: https://mp.toutiao.com/profile_v4/index
+      description: 头条号管理。
     
 - taxonomy: 常用工具
   icon: fas fa-flask fa-lg
