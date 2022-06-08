@@ -23,6 +23,10 @@
       logo: panx.webp
       url: http://nas.nsoft.vip:5212/
       description: 支持多家云存储的云盘系统。
+    - title: JDC-NEW
+      logo: JDC.png
+      url: http://jd.nsoft.vip:5701/
+      description: JD智能助手。
     - title: 青龙面板
       logo: qinglong.png
       url: http://nas.nsoft.vip:5770/
@@ -31,10 +35,6 @@
       logo: qinglong.png
       url: http://nas.nsoft.vip:5880/
       description: 定时任务管理面板。
-    - title: JDC-NEW
-      logo: JDC.png
-      url: http://jd.nsoft.vip:5701/
-      description: JD智能助手。
     - title: Github
       logo: github.jpg
       url: https://github.com/
