@@ -105,6 +105,10 @@
   list:
     - term: 软件资源
       links:
+        - title: msdn.itellyou.cn
+          logo: itellyou.png
+          url: https://msdn.itellyou.cn/
+          description: 原版软件信息收录站点。
         - title: 正版中国
           logo: 正版中国.png
           url: https://www.getitfree.cn/
