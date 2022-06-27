@@ -27,6 +27,10 @@
       logo: transmission.webp
       url: http://nas.nsoft.vip:9091/
       description: BitTorrent客户端。
+    - title: aMule
+      logo: amule.jpeg
+      url: http://nas.nsoft.vip:4711/
+      description: 开源免费的P2P文件共享软件。
     - title: JDC-NEW
       logo: JDC.png
       url: http://jd.nsoft.vip:5701/#/
@@ -99,6 +103,33 @@
 - taxonomy: 常用工具
   icon: fas fa-flask fa-lg
   list:
+    - term: 软件资源
+      links:
+        - title: 正版中国
+          logo: 正版中国.png
+          url: https://www.getitfree.cn/
+          description: 正版软件限时免费。
+        - title: 软件SOS
+          logo: rjsos.png
+          url: https://www.rjsos.com/
+          description: 整合各类软件安装教程。
+        - title: 果核剥壳
+          logo: ghxi.png
+          url: https://www.ghxi.com/
+          description: 看新闻,分享破解软件、绿色软件,Windows系统。   
+        - title: 大眼仔
+          logo: dayanzai.png
+          url: http://dayanzai.me/
+          description: 专注视频剪辑、解压、录屏、思维导图等办公资源分享。
+        - title: 吾爱破解
+          logo: 52pojie.png
+          url: https://www.52pojie.cn/
+          description: 吾爱破解论坛致力于软件安全与病毒分析的前沿。 
+        - title: 便携软件
+          logo: portablesoft.jpg
+          url: https://www.52pojie.cn/
+          description: 主要推介精品/免费/实用的绿色软件。
+
     - term: 云服务器
       links:
         - title: 阿里云
