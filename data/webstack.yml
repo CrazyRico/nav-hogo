@@ -9,11 +9,11 @@
       description: 疯狂的企鹅の博客。
     - title: mmPlayer
       logo: music.png
-      url: http://music.nsoft.vip:3700/
+      url: http://i.nsoft.vip:3700/
       description: 在线听音乐。
     - title: Moviehub
       logo: moviehub.png
-      url: http://nas.nsoft.vip:8899/
+      url: http://i.nsoft.vip:8899/
       description: Moviehub-永久免费电影站。
     - title: 软件库
       logo: soft.webp
@@ -21,15 +21,23 @@
       description: 疯狂的企鹅の软件库。
     - title: 私人云盘
       logo: panx.webp
-      url: http://nas.nsoft.vip:5212/login/
+      url: http://i.nsoft.vip:5212/login/
       description: 支持多家云存储的云盘系统。
+    - title: 我的图床
+      logo: tuchuang.webp
+      url: http://i.nsoft.vip:9090/
+      description: 疯狂的企鹅の图床。
+    - title: Webssh
+      logo: webssh.webp
+      url: http://i.nsoft.vip:5032/
+      description: 开源的SSH终端Web应用。
     - title: Transmission
       logo: transmission.webp
-      url: http://nas.nsoft.vip:9091/
+      url: http://i.nsoft.vip:9091/
       description: BitTorrent客户端。
     - title: aMule
       logo: amule.jpeg
-      url: http://nas.nsoft.vip:4711/
+      url: http://i.nsoft.vip:4711/
       description: 开源免费的P2P文件共享软件。
     - title: JDC-NEW
       logo: JDC.png
@@ -133,6 +141,10 @@
           logo: portablesoft.jpg
           url: https://www.52pojie.cn/
           description: 主要推介精品/免费/实用的绿色软件。
+        - title: Office Tool Plus
+          logo: officetoolplus.png
+          url: https://otp.landian.vip/zh-cn/index.html
+          description: 用于部署 Office, Visio 和 Project 的小工具。
 
     - term: 云服务器
       links:
